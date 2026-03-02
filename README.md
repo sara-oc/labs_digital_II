@@ -9,7 +9,7 @@ Este repositorio contiene el código fuente de un **juego de reflejos** que mide
 ```
 codigo/juego.py        → Contiene todo el código fuente del juego
 README.md      → Documentación del proyecto  
-informe.pdf    → (Opcional) Informe del proyecto
+informe.pdf    → Informe del proyecto
 ```
 
 ---
