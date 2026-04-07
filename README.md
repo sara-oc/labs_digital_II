@@ -1,42 +1,41 @@
-# Juego de Reflejos – MiniJuego Simon Dice NEUROREFLEX
+# Electrónica Digital - Laboratorios
 
-Este repositorio contiene el código fuente de un **juego de reflejos** que mide la **velocidad de reacción del jugador**. Incluye un **minijuego tipo "Simon Dice"**, donde el usuario debe repetir secuencias correctamente.
+Este repositorio contiene el desarrollo de los laboratorios de la materia **Electrónica Digital**, incluyendo informes y código implementado en cada práctica.
+
+## Estructura del repositorio
+
+ electronica-digital
+ 
+### ┣ Laboratorio 1
+
+┃ ┣  informe.pdf
+
+┃ ┣  Codigo
+
+┃ ┃ ┗  juego.py
+
+### ┣ Laboratorio 2
+
+┃ ┣  codigo.py
+
+┃ ┣  seguimiento_2.pdf
+
+### ┣  Laboratorio 3 (próximamente)
+
+Más detalles del procedimiento en la [Wiki](../../wiki/)
+
+## Tecnologías utilizadas
+
+- Python
+- Micropython
+- Microcontroladores (ESP32)
+- Dispositivos electronicos y analogos
 
 ---
 
-## Estructura del Repositorio
+## Notas
 
-```
-codigo/juego.py        → Contiene todo el código fuente del juego
-README.md      → Documentación del proyecto  
-informe.pdf    → Informe del proyecto
-```
-
----
-
-## Descripción del Juego
-
-El juego está diseñado para evaluar la **rapidez y precisión** de uno o dos jugadores mediante:
-
-- Medición del tiempo de reacción  
-- Interfaz interactiva  
-- MiniJuego tipo *Simon Dice*  
-- Registro de desempeño  
-
-### ¿Cómo funciona?
-
-1. El jugador espera una señal visual.
-2. Debe reaccionar lo más rápido posible.
-3. En el modo *Simon Dice*, debe memorizar y repetir correctamente la secuencia generada.
-4. El sistema mide el tiempo de reacción.
-
----
-
-## Informe del Proyecto
-
-Se puede consultar el informe completo aquí:
-
-**[Ver Informe del Proyecto](https://es.overleaf.com/read/kmcvtjmvhsvf#ac364b)**
+Este repositorio se actualizará progresivamente con nuevos laboratorios y mejoras en los existentes.
 
 ---
 
